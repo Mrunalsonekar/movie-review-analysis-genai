@@ -6,6 +6,23 @@ This project analyzes movie reviews from the Rotten Tomatoes dataset using Natur
 
 It uses a pre-trained DistilBERT model for sentiment classification and a BART model for text summarization.
 
+## Development Experience
+
+I developed this project as part of my hands-on learning journey in Data Science and Generative AI.
+
+During development, I worked with Hugging Face datasets and pre-trained Transformer models to understand how NLP can be applied to real-world text analysis.
+
+Some of the concepts I explored include:
+
+- Preparing and transforming unstructured text data.
+- Using DistilBERT for sentiment classification.
+- Understanding batch inference and execution time.
+- Calculating sentiment statistics and visualizing results.
+- Using BART for automated text summarization.
+- Preparing and saving AI-generated analysis reports.
+
+I also encountered compatibility issues with newer versions of the Transformers library and worked through them to run the summarization pipeline successfully.
+
 ## Project Objectives
 
 - Load and prepare movie review data.
